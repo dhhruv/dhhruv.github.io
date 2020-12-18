@@ -1,7 +1,7 @@
 # Personal Landing Page of
 ## [Dhruv Panchal](https://dhhruv.github.io/)
 
-![version](https://img.shields.io/badge/version-1.0.0-blue.svg)
+![version](https://img.shields.io/badge/version-1.1.0-blue.svg)
 
 
 This is a **Personal landing** page for easy access to contact details and  social media accounts.
